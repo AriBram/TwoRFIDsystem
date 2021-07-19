@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Make some changes
 Class in Python 2.7 for testing two RFID readers with Raspberry Pi.
 
 Use: 
@@ -10,11 +9,6 @@ $ cd TwoRC522RPi/
 $ sudo python run_main_test.py 
 Press Ctrl + C to finish.
 
-Credits and License: Created by Erivando Sena (2016)
-
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License.
 """
 
 import sys

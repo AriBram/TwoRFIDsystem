@@ -1,5 +1,5 @@
-# TwoRC522RPi
-Two RFID readers with Raspberry Pi
+# Two RFID with Raspberry PI 
+Two RFID MFRC522 readers with Raspberry Pi 3 b
 
 Assuming the python-dev and SPI-Py libraries are already correctly installed, configured, and tested on Raspberry Pi.
 
