@@ -21,9 +21,10 @@ def main(self):
     try:
         while True:
             if not reader_card.isAlive():
+               print "Start"
                reader_card.start()
     except KeyboardInterrupt:
-        print "trl+C received! Sending kill to " + reader_card.getName()
+        print "Ctrl+C received! Sending kill to " + reader_card.getName()
         if reader_card.isAlive():
             reader_card._stopevent.set()
             
