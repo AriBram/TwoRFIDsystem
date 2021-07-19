@@ -13,7 +13,7 @@ $ sudo python setup.py install
 
 Use: 
 ```{r, engine='bash', count_lines}
-$ git clone https://github.com/erivandoramos/TwoRC522RPi.git
+$ git clone https://github.com/AriBram/TwoRFIDsystem.git
 $ cd TwoRC522RPi/
 $ sudo python run_main_test.py 
 ```
